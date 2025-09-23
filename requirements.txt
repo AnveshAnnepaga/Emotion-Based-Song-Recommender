@@ -1,0 +1,5 @@
+supabase
+textblob
+python-dotenv
+requests
+rich
