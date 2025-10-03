@@ -5,3 +5,4 @@ requests
 rich
 streamlit
 streamlit-option-menu
+bcrypt
