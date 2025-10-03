@@ -3,3 +3,5 @@ textblob
 python-dotenv
 requests
 rich
+streamlit
+streamlit-option-menu
